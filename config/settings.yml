@@ -1,0 +1,8 @@
+plugins:
+  custom_ignore_trust_level:
+    default: 2
+    enum: "TrustLevelSetting"
+    client: true
+  custom_ignore_no_limit:
+    client: true
+    default: false

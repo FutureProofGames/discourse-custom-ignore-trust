@@ -1,0 +1,4 @@
+en:
+    site_settings:
+        custom_ignore_trust_level: "The trust level required to ignore another user."
+        custom_ignore_no_limit: "Ignore the hardcoded ignore time limit of four months."
